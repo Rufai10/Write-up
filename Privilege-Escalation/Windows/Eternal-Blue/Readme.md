@@ -1,6 +1,6 @@
-# 🔵 Blue Machine Write-Up
+![alt text](assets/badges/learning-header.svg)
 
----
+![alt text](assets/badges/learning-division.svg)
 
 ## 📌 Overview
 
